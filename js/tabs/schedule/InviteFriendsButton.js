@@ -23,7 +23,7 @@
  */
 'use strict';
 
-var React = require('React');
+var React = require('react');
 var F8Button = require('F8Button');
 var {AppInviteDialog, AppEventsLogger} = require('react-native-fbsdk');
 var { connect } = require('react-redux');

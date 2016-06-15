@@ -24,7 +24,7 @@
 'use strict';
 
 var Image = require('Image');
-var React = require('React');
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 var { Paragraph, Heading1 } = require('F8Text');
 var View = require('View');

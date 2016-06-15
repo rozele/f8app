@@ -25,7 +25,7 @@
 
 'use strict';
 
-var React = require('React');
+var React = require('react');
 var AppState = require('AppState');
 var LoginScreen = require('./login/LoginScreen');
 var PushNotificationsController = require('./PushNotificationsController');

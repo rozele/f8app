@@ -26,7 +26,7 @@
 var LoginButton = require('../common/LoginButton');
 var F8Colors = require('F8Colors');
 var Image = require('Image');
-var React = require('React');
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 var { Text } = require('F8Text');
 var View = require('View');

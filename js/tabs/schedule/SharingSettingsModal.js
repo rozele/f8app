@@ -24,7 +24,7 @@
 'use strict';
 
 var F8Button = require('F8Button');
-var React = require('React');
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 var View = require('View');
 var Navigator = require('Navigator');

@@ -25,7 +25,7 @@
 
 var ItemsWithSeparator = require('../../common/ItemsWithSeparator');
 var LayoutAnimation = require('LayoutAnimation');
-var React = require('React');
+var React = require('react');
 var Section = require('./Section');
 var StyleSheet = require('StyleSheet');
 var { Text } = require('F8Text');

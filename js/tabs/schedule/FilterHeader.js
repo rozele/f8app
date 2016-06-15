@@ -24,7 +24,7 @@
 
 'use strict';
 
-var React = require('React');
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 const Text = require('Text');
 const TouchableOpacity = require('TouchableOpacity');

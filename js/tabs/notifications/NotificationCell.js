@@ -25,7 +25,7 @@
 
 var F8Colors = require('F8Colors');
 var F8SessionCell = require('F8SessionCell');
-var React = require('React');
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 var findSessionByURI = require('findSessionByURI');
 var { Text } = require('F8Text');

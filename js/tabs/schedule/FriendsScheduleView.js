@@ -25,7 +25,7 @@
 
 var Navigator = require('Navigator');
 var ProfilePicture = require('../../common/ProfilePicture');
-var React = require('React');
+var React = require('react');
 var EmptySchedule = require('./EmptySchedule');
 var FilterSessions = require('./filterSessions');
 var ListContainer = require('ListContainer');

@@ -26,7 +26,7 @@
 var F8Button = require('F8Button');
 var F8Colors = require('F8Colors');
 var Image = require('Image');
-var React = require('React');
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 var View = require('View');
 var { Heading1, Paragraph } = require('F8Text');

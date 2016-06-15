@@ -30,7 +30,7 @@ var ListContainer = require('ListContainer');
 var LoginButton = require('../../common/LoginButton');
 var Navigator = require('Navigator');
 var ProfilePicture = require('../../common/ProfilePicture');
-var React = require('React');
+var React = require('react');
 var PureListView = require('../../common/PureListView');
 var ScheduleListView = require('./ScheduleListView');
 var FriendsListView = require('./FriendsListView');
@@ -199,4 +199,3 @@ function actions(dispatch) {
 }
 
 module.exports = connect(select, actions)(MyScheduleView);
-window.RRR = require('ReactDefaultPerf');

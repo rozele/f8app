@@ -27,7 +27,7 @@
 
 var Animated = require('Animated');
 var resolveAssetSource = require('resolveAssetSource');
-var React = require('React');
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 var View = require('View');
 var Image = require('Image');

@@ -25,7 +25,7 @@
 
 'use strict';
 
-var React = require('React');
+var React = require('react');
 var Platform = require('Platform');
 var BackAndroid = require('BackAndroid');
 var F8TabsView = require('F8TabsView');

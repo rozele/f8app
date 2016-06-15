@@ -26,7 +26,7 @@
 'use strict';
 
 var F8Colors = require('F8Colors');
-var React = require('React');
+var React = require('react');
 var Platform = require('Platform');
 var StyleSheet = require('StyleSheet');
 var { Text } = require('F8Text');

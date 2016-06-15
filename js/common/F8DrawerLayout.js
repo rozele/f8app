@@ -25,7 +25,7 @@
  */
 'use strict';
 
-var React = require('React');
+var React = require('react');
 var DrawerLayoutAndroid = require('DrawerLayoutAndroid');
 
 class F8DrawerLayout extends React.Component {

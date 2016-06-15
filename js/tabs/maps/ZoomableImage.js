@@ -24,7 +24,7 @@
 'use strict';
 
 var Image = require('Image');
-var React = require('React');
+var React = require('react');
 var ScrollView = require('ScrollView');
 var StyleSheet = require('StyleSheet');
 var TouchableWithoutFeedback = require('TouchableWithoutFeedback');

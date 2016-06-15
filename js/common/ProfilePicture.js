@@ -24,7 +24,7 @@
 'use strict';
 
 var Image = require('Image');
-var React = require('React');
+var React = require('react');
 var PixelRatio = require('PixelRatio');
 
 class ProfilePicture extends React.Component {

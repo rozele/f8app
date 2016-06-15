@@ -27,7 +27,7 @@ var Animated = require('Animated');
 var Dimensions = require('Dimensions');
 var F8Colors = require('F8Colors');
 var Image = require('Image');
-var React = require('React');
+var React = require('react');
 var StatusBarIOS = require('StatusBarIOS');
 var StyleSheet = require('StyleSheet');
 var View = require('View');
@@ -47,7 +47,7 @@ class LoginScreen extends React.Component {
   }
 
   componentDidMount() {
-    StatusBarIOS && StatusBarIOS.setStyle('default');
+    StatusBarIOS && StatusBarIOS.setStyle && StatusBarIOS.setStyle('default');
     Animated.timing(this.state.anim, {toValue: 3000, duration: 3000}).start();
   }
 

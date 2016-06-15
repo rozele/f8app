@@ -25,7 +25,7 @@
 
 var F8Header = require('F8Header');
 var InteractionManager = require('InteractionManager');
-var React = require('React');
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 var View = require('View');
 var WebView = require('WebView');

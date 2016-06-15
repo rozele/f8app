@@ -24,7 +24,7 @@
 
 'use strict';
 
-var React = require('React');
+var React = require('react');
 var View = require('View');
 
 class Playground extends React.Component {

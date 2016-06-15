@@ -25,7 +25,7 @@
 'use strict';
 
 var F8Colors = require('F8Colors');
-var React = require('React');
+var React = require('react');
 var View = require('View');
 var { Text } = require('F8Text');
 var F8Touchable = require('F8Touchable');

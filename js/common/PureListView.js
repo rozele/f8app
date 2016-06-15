@@ -27,7 +27,7 @@ var ListView = require('ListView');
 var Dimensions = require('Dimensions');
 var Platform = require('Platform');
 var StyleSheet = require('StyleSheet');
-var React = require('React');
+var React = require('react');
 var View = require('View');
 
 type Rows = Array<Object>;

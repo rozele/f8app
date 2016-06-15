@@ -25,8 +25,8 @@
 'use strict';
 
 var Image = require('Image');
-var LinearGradient = require('react-native-linear-gradient');
-var React = require('React');
+import LinearGradient from 'react-native-linear-gradient';
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 var { Text } = require('F8Text');
 var TouchableOpacity = require('TouchableOpacity');

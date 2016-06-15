@@ -25,7 +25,7 @@
 'use strict';
 
 var ProfilePicture = require('../../common/ProfilePicture');
-var React = require('React');
+var React = require('react');
 var StyleSheet = require('StyleSheet');
 var { Text } = require('F8Text');
 var View = require('View');

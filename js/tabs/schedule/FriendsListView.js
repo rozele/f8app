@@ -25,7 +25,7 @@
 
 var EmptySchedule = require('./EmptySchedule');
 var Navigator = require('Navigator');
-var React = require('React');
+var React = require('react');
 var SessionsSectionHeader = require('./SessionsSectionHeader');
 var InviteFriendsButton = require('./InviteFriendsButton');
 var PureListView = require('../../common/PureListView');
